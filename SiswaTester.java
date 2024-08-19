@@ -10,6 +10,8 @@ public class SiswaTester {
         System.out.println("--------------------");
 
         Siswa nero = new Siswa();
+
+        // tambahan
         nero.id = 11;
         nero.nama = "Dinero Sulung Suseno";
         nero.ipk = 86.5;
